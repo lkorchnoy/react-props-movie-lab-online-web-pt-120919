@@ -1,3 +1,11 @@
+// export default class Data extends Component {
+//   render() {
+//     return <li>
+//       {this.props.content}
+//     </li>
+//   }
+// }
+
 const movieData = [
   {
     title: 'Choux and Maru go to Istanbul',
